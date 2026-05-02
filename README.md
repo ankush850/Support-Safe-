@@ -1,11 +1,22 @@
 <div align="center">
 
-# SupportSafe  
-*Secure Unified Platform for Protection, Outreach, Resilience, Tracking and Safe Assistance for Empowerment*
-
+## SupportSafe - Haven
 <br>
 
-<details>
+<img src="https://github.com/ankush850/Support-Safe/blob/a00da56ef75eb3392ee5e467e6c521f4ec573857/Haven-SupportSafe.png" width="300"/>
+
+*A Silent Shield, A Strong Voice.*
+
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+</p>
+
+
 <summary><b>View Full Acronym Breakdown (S.U.P.P.O.R.T.S.A.F.E)</b></summary>
 <br>
 
@@ -16,19 +27,14 @@
 **O** — Outreach for <br>
 **R** — Resilient <br>
 **T** — Threatened Survivors <br><br>
+
 **S** — Safe <br>
 **A** — Assistance for <br>
 **F** — Freedom and <br>
 **E** — Empowerment
 
-</details>
-
 <br>
-
-*A Silent Shield, A Strong Voice.*
-
 </div>
-
 
 ### Inspiration 
 Imagine a woman trapped in silence, enduring daily fear and abuse, unable to seek help because her every move is monitored. For millions of women worldwide, this is a daily reality.  
