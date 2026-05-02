@@ -39,6 +39,14 @@
 </div>
 
 ---
+<div align="center">
+<a href="https://youtu.be/JDgf-lbbPu4?si=FcFhQs391B-dvO97" target="_blank">
+  <img src="https://img.shields.io/badge/Watch%20Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+</div>
+
+
+---
 
 ### Inspiration 
 
@@ -46,7 +54,6 @@ Most solutions assume victims can safely ask for help. That assumption is wrong.
 SupportSafe is built for that reality. It’s an AI-driven platform designed to operate under surveillance, giving women a covert way to reach help without raising suspicion. It combines hidden communication mechanisms, real-time emotional support, and accessible legal guidance into a single system focused on safety first.
 Instead of asking users to take risks, SupportSafe minimizes them—providing discreet access to support, mental resilience tools, and critical information when traditional channels are not safe to use.
 
-<br/>
 
 ## What it Does 
 
