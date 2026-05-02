@@ -97,14 +97,6 @@ For many women in abusive relationships who live under constant monitoring, find
 
 On the user side, Support safe’s process begins with message generation, where the user enters brief details of their situation. Our LLM expands these inputs into complete, coherent sentences. The user then chooses an image prompt, like a flower or landscape, which the AI generates and encodes with the distress message through steganography. Once complete, the user shares this seemingly ordinary image on social media, where it appears innocuous to others, including any abusers monitoring the profile.
 On the authority side, Support safe's system continuously monitors social media for SOS images tagged with specific hashtags. Once detected, these images are decoded to extract the hidden message using reverse steganography. The decoded text is then broken down into structured segments for efficient analysis, after which it is stored in MongoDB, where cases are organized by severity level to prioritize urgent responses.
-### 1. Discreet SOS Messaging through Steganography
-For many women in abusive relationships who live under constant monitoring, finding a way to ask for help without alerting their abusers is critical. Support safe introduces a revolutionary SOS messaging system, using **steganography** to encode distress signals within innocent-looking images, like flowers or landscapes.
-
-### How it Works 
-
-On the user side, Support safe’s process begins with message generation, where the user enters brief details of their situation. Our LLM expands these inputs into complete, coherent sentences. The user then chooses an image prompt, like a flower or landscape, which the AI generates and encodes with the distress message through steganography. Once complete, the user shares this seemingly ordinary image on social media, where it appears innocuous to others, including any abusers monitoring the profile.
-
-On the authority side, Support safe's system continuously monitors social media for SOS images tagged with specific hashtags. Once detected, these images are decoded to extract the hidden message using reverse steganography. The decoded text is then broken down into structured segments for efficient analysis, after which it is stored in MongoDB, where cases are organized by severity level to prioritize urgent responses.
 
 ![image alt](https://github.com/ankush850/Support-Safe-/blob/6a1a3c1c7e3470eea4ca221006f2dfcad8547e14/Flow-Diagram/1.png)
 
