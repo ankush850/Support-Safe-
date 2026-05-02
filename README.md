@@ -8,14 +8,15 @@
 *A Silent Shield, A Strong Voice.*
 
 
-<p>
+<br>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-</p>
+</br>
 
+---
 
 <summary><b>View Full Acronym Breakdown (S.U.P.P.O.R.T.S.A.F.E)</b></summary>
 <br>
@@ -34,11 +35,16 @@
 **E** — Empowerment
 
 <br>
+
 </div>
 
+---
+
 ### Inspiration 
-Imagine a woman trapped in silence, enduring daily fear and abuse, unable to seek help because her every move is monitored. For millions of women worldwide, this is a daily reality.  
-**SupportSafe** is an innovative 🌐 AI-powered solution designed to empower women in abusive situations by providing discreet ways to seek help, access mental health support, and receive legal guidance—without the risk of exposure.
+
+Most solutions assume victims can safely ask for help. That assumption is wrong. In many abusive environments, phones are monitored, messages are checked, and even small actions can trigger violence.
+SupportSafe is built for that reality. It’s an AI-driven platform designed to operate under surveillance, giving women a covert way to reach help without raising suspicion. It combines hidden communication mechanisms, real-time emotional support, and accessible legal guidance into a single system focused on safety first.
+Instead of asking users to take risks, SupportSafe minimizes them—providing discreet access to support, mental resilience tools, and critical information when traditional channels are not safe to use.
 
 <br/>
 
